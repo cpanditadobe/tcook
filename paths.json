@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/th-cook/:/",
-    "/content/th-cook/configuration:/.helix/config.json"
+    "/content/th-cook/configuration:/.helix/config.json",
+    "/content/th-cook/metadata:/metadata.json"
   ]
 }
